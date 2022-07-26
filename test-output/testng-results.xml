@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-26T11:55:12 PDT" name="Selenium framework" finished-at="2022-07-26T11:55:58 PDT" duration-ms="45139">
+    <groups>
+    </groups>
+    <test started-at="2022-07-26T11:55:12 PDT" name="Test 1" finished-at="2022-07-26T11:55:58 PDT" duration-ms="45139">
+      <class name="com.selenium.testCases.TC_LoginDDT_002">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.selenium.testCases.TC_LoginDDT_002@cb0755b]" started-at="2022-07-26T11:55:26 PDT" name="setup" finished-at="2022-07-26T11:55:30 PDT" duration-ms="3486" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginDDT(java.lang.String,java.lang.String)[pri:0, instance:com.selenium.testCases.TC_LoginDDT_002@cb0755b]" started-at="2022-07-26T11:55:30 PDT" name="loginDDT" data-provider="LoginData" finished-at="2022-07-26T11:55:32 PDT" duration-ms="2214" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user001]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass001]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginDDT -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.selenium.testCases.TC_LoginDDT_002@cb0755b]" started-at="2022-07-26T11:55:32 PDT" name="closeBrowser" finished-at="2022-07-26T11:55:33 PDT" duration-ms="567" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.selenium.testCases.TC_LoginDDT_002@cb0755b]" started-at="2022-07-26T11:55:33 PDT" name="setup" finished-at="2022-07-26T11:55:36 PDT" duration-ms="3479" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginDDT(java.lang.String,java.lang.String)[pri:0, instance:com.selenium.testCases.TC_LoginDDT_002@cb0755b]" started-at="2022-07-26T11:55:36 PDT" name="loginDDT" data-provider="LoginData" finished-at="2022-07-26T11:55:38 PDT" duration-ms="2025" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user002]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass002]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginDDT -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.selenium.testCases.TC_LoginDDT_002@cb0755b]" started-at="2022-07-26T11:55:38 PDT" name="closeBrowser" finished-at="2022-07-26T11:55:39 PDT" duration-ms="532" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.selenium.testCases.TC_LoginDDT_002@cb0755b]" started-at="2022-07-26T11:55:39 PDT" name="setup" finished-at="2022-07-26T11:55:42 PDT" duration-ms="3569" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginDDT(java.lang.String,java.lang.String)[pri:0, instance:com.selenium.testCases.TC_LoginDDT_002@cb0755b]" started-at="2022-07-26T11:55:42 PDT" name="loginDDT" data-provider="LoginData" finished-at="2022-07-26T11:55:45 PDT" duration-ms="2634" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user003]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass003]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginDDT -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.selenium.testCases.TC_LoginDDT_002@cb0755b]" started-at="2022-07-26T11:55:45 PDT" name="closeBrowser" finished-at="2022-07-26T11:55:46 PDT" duration-ms="746" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.selenium.testCases.TC_LoginDDT_002@cb0755b]" started-at="2022-07-26T11:55:46 PDT" name="setup" finished-at="2022-07-26T11:55:49 PDT" duration-ms="3378" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginDDT(java.lang.String,java.lang.String)[pri:0, instance:com.selenium.testCases.TC_LoginDDT_002@cb0755b]" started-at="2022-07-26T11:55:49 PDT" name="loginDDT" data-provider="LoginData" finished-at="2022-07-26T11:55:51 PDT" duration-ms="1926" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user004]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass004]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginDDT -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.selenium.testCases.TC_LoginDDT_002@cb0755b]" started-at="2022-07-26T11:55:51 PDT" name="closeBrowser" finished-at="2022-07-26T11:55:52 PDT" duration-ms="630" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.selenium.testCases.TC_LoginDDT_002@cb0755b]" started-at="2022-07-26T11:55:52 PDT" name="setup" finished-at="2022-07-26T11:55:55 PDT" duration-ms="3383" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginDDT(java.lang.String,java.lang.String)[pri:0, instance:com.selenium.testCases.TC_LoginDDT_002@cb0755b]" started-at="2022-07-26T11:55:55 PDT" name="loginDDT" data-provider="LoginData" finished-at="2022-07-26T11:55:57 PDT" duration-ms="2017" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user005]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass005]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginDDT -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.selenium.testCases.TC_LoginDDT_002@cb0755b]" started-at="2022-07-26T11:55:57 PDT" name="closeBrowser" finished-at="2022-07-26T11:55:58 PDT" duration-ms="541" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.selenium.testCases.TC_LoginDDT_002 -->
+      <class name="com.selenium.testCases.TC_LoginTest_001">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.selenium.testCases.TC_LoginTest_001@26d9b808]" started-at="2022-07-26T11:55:13 PDT" name="setup" finished-at="2022-07-26T11:55:21 PDT" duration-ms="8463" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginTest()[pri:0, instance:com.selenium.testCases.TC_LoginTest_001@26d9b808]" started-at="2022-07-26T11:55:21 PDT" name="loginTest" finished-at="2022-07-26T11:55:23 PDT" duration-ms="2259" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.selenium.testCases.TC_LoginTest_001@26d9b808]" started-at="2022-07-26T11:55:23 PDT" name="closeBrowser" finished-at="2022-07-26T11:55:24 PDT" duration-ms="554" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.selenium.testCases.TC_LoginTest_001 -->
+    </test> <!-- Test 1 -->
+  </suite> <!-- Selenium framework -->
+</testng-results>
